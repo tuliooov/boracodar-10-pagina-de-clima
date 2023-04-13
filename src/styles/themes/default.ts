@@ -1,0 +1,16 @@
+export const defaultTheme = {
+  black: '#000000',
+  'blue-100': '#C2CEF2',
+  'gray-100': '#E7E6FB',
+  'gray-300': '#DAD8F7',
+  'green-100': '#87EBCD',
+  'purple-100': '#C2BFF4',
+  'purple-300': '#9D99E4',
+  'purple-500': '#8E87FA',
+  'purple-700': '#6D67D0',
+  'purple-transparent': 'rgba(102,96,200,0.6)',
+  'yellow-100': '#FBDB60',
+  'yellow-300': '#F6C833',
+  'yellow-500': '#E5BB46',
+  white: '#FFFFFF',
+}
